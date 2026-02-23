@@ -1,0 +1,12 @@
+# CodeCrew Dependencies
+# Core CrewAI (older version compatible with langchain 0.0.x)
+crewai==0.1.35
+
+# LangChain ecosystem (compatible versions)
+langchain==0.0.335
+
+# Ollama support
+# Note: langchain.llms.Ollama is deprecated, but works with this version
+
+# Environment
+python-dotenv>=1.0.0
